@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This is an **Airbnb Clone** built using the **MERN Stack** (MongoDB, Express, React, Node.js). The project includes essential features such as property listing management, user authentication, and booking functionality. The frontend is built with **React** and designed to be fully responsive using **Tailwind CSS** , while the backend is built with **Next js**, **Prisma** to manage property listings, user authentication, and bookings. The **MongoDB** database is used to store all related data.
+This is an **Airbnb Clone** built using the **Next js , Prisma, mongoDb**. The project includes essential features such as property listing management, user authentication, and booking functionality. The frontend is built with **React** and designed to be fully responsive using **Tailwind CSS** , while the backend is built with **Next js**, **Prisma** to manage property listings, user authentication, and bookings. The **MongoDB** database is used to store all related data.
 
 ## Key Features
 
