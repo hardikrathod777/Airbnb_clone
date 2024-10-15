@@ -1,5 +1,5 @@
 
-# Airbnb Clone with MERN Stack
+# Airbnb Clone 
 
 ## Project Overview
 
